@@ -1,0 +1,19 @@
+Nùmeros Complejos
+a = Parte real
+bi = Parte Imaginaria
+
+
+	Representaciòn
+		Binòmica
+			z = a + bi 
+		Polar
+			z = r(cos(α) + i * sin(α))
+	
+	Mòdulo
+		r = |z| = √(a² + b²)
+
+	Argumento
+		α = tan⁻¹(b/a)
+
+	Conjugado
+		z´ = a - bi	

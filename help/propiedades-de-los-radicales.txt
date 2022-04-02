@@ -1,0 +1,9 @@
+Propiedades de los radicales
+
+	aⁿ = b ---> a = ⁿ√b
+	a¹/ⁿ = ⁿ√a
+	aᵐ/ⁿ = (ⁿ√a)ᵐ = (a¹/ⁿ)ᵐ
+	aᵐ/ⁿ = (ⁿ√aᵐ) = (aᵐ)¹/ⁿ
+	√x² = |x|
+	ⁿ√a * ⁿ√b = ⁿ√(a * b)
+	(ⁿ√a/ⁿ√b) = ⁿ√(a/b)

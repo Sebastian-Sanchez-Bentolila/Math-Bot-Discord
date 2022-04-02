@@ -1,0 +1,20 @@
+Propiedades de los exponentes
+
+
+	Funciòn Exponencial
+		aᵐ * aⁿ = aᵐ⁺ⁿ
+		aᵐ/aⁿ = aᵐ⁻ⁿ
+		a⁰ = 1
+		a⁻ᵐ = 1/aᵐ
+		(aᵐ)ⁿ = aᵐ*ⁿ
+		(ab)ᵐ = aᵐ * bᵐ
+		(a/b)ᵐ = (aᵐ/bᵐ)
+
+	Funciòn logaritmo y exponencial
+		ln eᵘ = u
+		eᶪⁿ ᵘ = u
+		ln e = 1
+		e⁰ = 1
+		eᵘ⁺ᵛ = eᵘ * eᵛ
+		eᵘ⁻ᵛ = (eᵘ/eᵛ)
+		

@@ -1,0 +1,103 @@
+Comandos
+ 
+                           
+	-Area y Perimetro
+		!ap-circulo       [radio]
+		!ap-cuadrado      [lado]
+		!ap-paralelogramo [base] [altura] [a]
+		!ap-rectangulo    [base] [altura]
+		!ap-rombo         [lado] [D] [d]
+		!ap-trapecio      [base1] [base2] [altura] [a] [c]
+		!ap-triangulo-i   [base] [altura] [a]
+		!ap-traingulo-eq  [base] [altura] [l]
+		!ap-triangulo-es  [base] [altura] [a] [c]
+ 
+                           
+	-Constantes
+		!e
+		!pi
+
+
+	-Convertidor
+		!& [unidad*] [x]
+ 
+                           
+	-Funciones
+		!f-constante      [tìtulo] [k]
+		!f-cuadratica     [tìtulo] [(m*(X**2))+(b*X)+c]
+		!f-cubica         [tìtulo] [(m*(X**3))+(b*(x**2))+(c*X)+d]
+		!f-exponencial    [tìtulo] [a**x]
+		!f-lineal         [tìtulo] [(m*X)+b]
+		!f-recta-vertical [tìtulo] [k]
+
+                            
+	-Funciones Trigonomètricas
+		!t-cos() [x]
+		!t-sin() [x]
+		!t-tan() [x]
+	-Guias
+		!guia [numeros-complejos; formula-general; exponentes; radicales]
+
+
+	-Nùmeros Complejos
+		!c-resolver [ejemplo: (2+2j)*(4-9j)]
+		!c-graficar [ejemplo: 4-5j] 
+
+	-Sistemas Nùmericos
+		!sn-decimal     [x] - Decimal a binario y hexadecimal
+		!sn-binario     [x] - Binario a decimal y hexadecimal
+		!sn-hexadecimal [x] - Hexadecimal a binario y decimal
+
+                 
+	-Volumenes
+		!v-cilindro [radio] [altura]
+		!v-cono     [radio] [altura]
+		!v-cubo     [a]
+		!v-esfera   [radio]
+		!v-piramide [area] [altura]
+		!v-prisma   [area] [altura]
+  
+                          
+	-Otros comandos
+		!d-puntos [x1] [x2] [y1] [y2]      - Distancia entre 2 puntos
+		!p-medio  [x1] [x2] [y1] [y2]      - Punto medio entre 2 puntos
+		!r        [ejemplo: 4+(5*6)-(2/3)] - Ecuaciones sin incògnitas
+		!x        [a] [b] [c]              - Formula General (raìces)
+		!@                                 - About/Sobre
+		!ayuda                             - Help/Ayuda
+                            
+ 
+                           
+Sintaxis
+ 
+                           
+	-Normas Bàsicas
+		+ = suma
+		- = resta
+		* = multiplicaciòn 
+		/ = division
+		** = exponente (Doble asterisco) 
+		% = resto
+		math.sqrt(x) o x^0.5 = raiz
+		() = parentesis
+
+                            
+	-Trigonometria
+		math.cos() = cos()
+		math.sin() = sin()
+		math.tan() = tan()
+ 
+ 
+
+*Unidad. Puede escribir 'grados' o 'radianes' (àngulo plano); 'julio' o'cal' (enèrgia); 
+'atsmosfera', 'bar', 'pascal' o 'mmhg' (presiòn) y 'celsius', 'fahrenheit' o 'kelvin 
+(temperatura). Al escribir una de estas opciones, se lo convertira en las unidades 
+restantes.
+                        
+Nota: Al escribir *x* (se pondrà en cursiva) y al poner **x** (se pondrà en negrita),
+no le de importancia (no afecta al rendimiento del bot). Otra cosa tambièn, al escribir
+(ya sea un nombre, una ecuaciòn, etc), hacerlo sin usar espacios (menos para distingir
+las variables).
+
+Dato: En las funciones, puedes agregar todas las f(x)= que quieras (en un mismo gràfico). 
+Gracias por leer.

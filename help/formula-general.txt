@@ -1,0 +1,8 @@
+Fòrmula General
+
+	x = (-b ± √(b² - 4*a*c)) / (2*a)
+  	Δ = b² - 4*a*c
+
+	Δ = 0 ---> Las raìces son reales e iguales
+	Δ < 0 ---> Las raìces no son reales
+	Δ > 0 ---> Las raìces son reales y de diferentes valor
